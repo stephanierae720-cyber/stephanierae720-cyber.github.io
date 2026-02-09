@@ -1,0 +1,30 @@
+h1 {
+  color: #37554d
+  font: Aptos; 
+  padding: 0.3em;
+  background-color: #7499ab
+}
+
+body {
+  background-color: #192f2d
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p {
+  background-color: #36e91280;
+  font-family: sans-serif;
+}
+div {
+    width: 300px;
+    height: 150px;
+    background-color: antiquewhite;
+    border-width: 1px;
+    border-color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 10px
+    ;
+}
